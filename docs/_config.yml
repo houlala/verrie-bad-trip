@@ -1,0 +1,13 @@
+# Configuration Jekyll
+title: Mon site
+description: Un petit site tout simple
+lang: fr
+
+# baseurl : à remplir seulement si le site est servi sur une sous-URL
+# (ex. "/mon-repo" pour https://pseudo.github.io/mon-repo). Laisser vide sinon.
+baseurl: ""
+url: ""
+
+# Fichiers à ne pas publier
+exclude:
+  - README.md
