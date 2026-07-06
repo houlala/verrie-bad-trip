@@ -51,8 +51,9 @@ projet, son fonctionnement et sa conformité aux prescriptions générales.
 
 ## Distances et environnement
 
-- Bâtiment → habitation tierce la plus proche : **361 m** ; → forage : 263 m ; → berge de
-  cours d'eau : > 200 m. Fosse → habitation : 425 m.
+- Bâtiment → habitation tierce la plus proche : **361 m** ; → berge de cours d'eau : > 200 m.
+  Fosse → habitation : 425 m. L'élevage est alimenté par le **réseau public d'eau** (pas de
+  forage propre ; les rubriques forage/prélèvement sont « non concerné »).
 - Site en **zone vulnérable nitrates**, couvert par le **PLUi Saumur Val de Loire**.
 - Le dossier aborde ensuite l'intégration paysagère (haies conservées, replantation),
   la biodiversité, les eaux pluviales, la prévention incendie et la compatibilité avec les
@@ -62,5 +63,7 @@ projet, son fonctionnement et sa conformité aux prescriptions générales.
 
 Procédure d'**enregistrement** (allégée). Modèle économique **sans foncier**, dépendant d'un
 tiers pour l'épandage et d'un intégrateur pour les animaux. **Cumul lisier + boues
-industrielles** en zone vulnérable et à proximité de milieux sensibles (Loire, captage AEP).
+industrielles** en zone vulnérable, dans un secteur proche de la vallée de la Loire (zone
+Natura 2000 à ~1,9 km). Le site est en revanche **hors périmètre de captage** d'eau potable
+(les plus proches à 4,4–4,8 km) et **hors zone d'action renforcée**.
 Élevage sur **caillebotis intégral sans litière**.

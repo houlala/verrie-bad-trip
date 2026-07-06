@@ -35,5 +35,6 @@ Conclusion : demande de **ne pas donner un avis favorable** au projet.
 
 Ce courrier peut servir de **trame** aux riverains souhaitant déposer leur propre observation.
 Pour renforcer l'impact, il gagne à être **personnalisé** et **appuyé sur les chiffres précis
-du dossier** (560 places, 1 756 m³ de lisier, 3 528 u d'azote, boues industrielles, proximité
-Loire/Natura 2000/captage) plutôt que sur des formulations génériques.
+du dossier** (560 places, 1 756 m³ de lisier, 3 528 u d'azote, épandage combiné avec ~500 t/an
+de boues de station d'épuration industrielle, proximité de la vallée de la Loire /
+Natura 2000) plutôt que sur des formulations génériques.

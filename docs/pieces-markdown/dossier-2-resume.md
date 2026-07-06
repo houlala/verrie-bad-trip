@@ -20,8 +20,10 @@ justificatifs (plans, études, pièces financières).
 - **Guide de conformité (PJ n°6)** : passage en revue des articles de l'arrêté de
   prescriptions (déchets et sous-produits animaux, équarrissage, auto-surveillance, lutte
   contre le bruit et les odeurs — plusieurs items déclarés « non concerné » ou « sans objet »).
-- **Dérogations (PJ n°7)** : demandes relatives aux distances par rapport aux tiers et à un
-  puits/forage, avec aménagements proposés.
+- **Aménagements aux prescriptions (PJ n°7)** : **aucune dérogation n'est demandée** — les
+  rubriques « dérogation par rapport aux tiers », « par rapport à un puits/forage » et
+  « autorisation des riverains » sont toutes marquées « non concerné » (le porteur estime
+  donc respecter les distances réglementaires).
 - **Attestations (PJ n°8 à 12)** : la SAS se déclare **propriétaire de la parcelle
   d'implantation** ; dépôt du **permis de construire** (exemplaire en annexe 12) et de la
   demande de **défrichement**.
@@ -30,12 +32,16 @@ justificatifs (plans, études, pièces financières).
 
 - **Zones humides** : une étude conclut que le projet n'est pas en zone humide ; les parcelles
   d'épandage situées en zone humide auraient été retirées du plan.
-- **Biodiversité** : analyse des corridors écologiques (trame verte / trame bleue), des
-  **ZNIEFF**, des arrêtés de protection de biotope et des zones **Natura 2000 / ZPS**
-  environnantes (vallée de la Loire).
-- **Patrimoine** : entités archéologiques, sites inscrits et classés.
-- **Compatibilité** avec les plans et schémas : programme nitrates, zone d'action renforcée
-  (ZAR), captage AEP, SDAGE Loire-Bretagne, SAGE, plans déchets.
+- **Biodiversité** : analyse des corridors écologiques (trame verte / trame bleue) et des
+  **ZNIEFF** (le dossier recense 6 ZNIEFF à proximité, mais indique que le site n'est situé
+  dans aucun périmètre environnemental). Le site est à **1,9 km** de la zone **Natura 2000**
+  « Vallée de la Loire des Ponts-de-Cé à Montsoreau » ; le plan d'épandage n'est pas en
+  Natura 2000, 4 îlots concernés ayant été retirés.
+- **Patrimoine** : examen des entités archéologiques et des sites inscrits/classés.
+- **Compatibilité** avec les plans et schémas : programme nitrates, SDAGE Loire-Bretagne,
+  SAGE, plans déchets. Le dossier précise que le site est **hors zone d'action renforcée
+  (ZAR)** et **hors périmètre de protection de captage** d'eau potable (captages les plus
+  proches à 4,4–4,8 km).
 - Conclusion du pétitionnaire : effets jugés non significatifs, justifiant l'**absence de
   bascule vers l'autorisation environnementale** (le projet reste en enregistrement).
 
@@ -51,5 +57,5 @@ permis de construire.
 C'est ici que le dossier **justifie l'absence d'étude d'impact et d'autorisation
 environnementale**. Les conclusions d'innocuité (zones humides, Natura 2000, patrimoine)
 émanent du bureau d'études mandaté par le porteur et peuvent être discutées, notamment au
-regard de la proximité de la Loire (Natura 2000), du captage d'eau potable et de l'épandage
-combiné lisier + boues industrielles.
+regard de la proximité de la vallée de la Loire (Natura 2000 à ~1,9 km) et de l'épandage
+combiné lisier + boues industrielles en zone vulnérable.

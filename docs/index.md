@@ -17,8 +17,9 @@ Le projet est en **consultation publique** : voir la
 - **Porteur** : SAS DU MOYER (installation de M. Samuel Hermenier comme agriculteur + 1 emploi salarié).
 - **Dossier monté par** : Terrena Environnement (Ancenis), daté de mars 2026.
 - **Encadrement technique** : groupement Denkavit (intégrateur de veaux de boucherie).
-- **Régime** : demande d'**enregistrement** ICPE (rubrique 2101) — procédure allégée, sans
-  enquête publique ni étude d'impact complète.
+- **Régime** : demande d'**enregistrement** ICPE (rubrique 2101) — procédure allégée : une
+  **consultation du public** a lieu (celle en cours), mais pas l'enquête publique avec
+  commissaire enquêteur ni l'étude d'impact systématique du régime d'autorisation.
 - **Nature** : **création d'un site neuf**, un bâtiment de **4 tunnels**, **560 places de
   veaux de boucherie sur caillebotis intégral** (sans litière), en gestion **lisier**.
 
@@ -40,10 +41,13 @@ Gennes-Val-de-Loire et Doué-en-Anjou). À noter : ces mêmes terres reçoivent 
 soit +1 301 unités d'azote.
 
 **Localisation sensible.** Le site se trouve en **zone vulnérable aux nitrates**, dans le
-**Parc naturel régional Loire-Anjou-Touraine**, à proximité de **Saumur**, de la **Loire
-(zone Natura 2000)**, de **ZNIEFF**, d'une zone d'action renforcée et d'un captage d'eau
-potable. Distances déclarées : bâtiment à l'habitation tierce la plus proche **361 m**,
-fosse **425 m**, forage **263 m**, berge du cours d'eau **200 m**.
+**Parc naturel régional Loire-Anjou-Touraine**, à **moins d'un kilomètre de Saumur** et à
+environ **1,9 km de la zone Natura 2000 de la vallée de la Loire** (des Ponts-de-Cé à
+Montsoreau) ; plusieurs **ZNIEFF** sont recensées à proximité. Le dossier précise en revanche
+que le site n'est **ni en zone d'action renforcée, ni dans un périmètre de protection de
+captage d'eau potable** (les captages les plus proches sont à 4–5 km). Distances déclarées :
+bâtiment à l'habitation tierce la plus proche **361 m**, fosse **425 m**, cours d'eau le plus
+proche **200 m** (l'élevage est alimenté par le réseau public d'eau).
 
 ## Pourquoi ce projet nous inquiète
 
@@ -51,8 +55,8 @@ fosse **425 m**, forage **263 m**, berge du cours d'eau **200 m**.
   alimentation au lait de poudre, engraissement intensif — des conditions difficilement
   compatibles avec les besoins biologiques de l'espèce (art. L214-1 du Code rural).
 - **Eau et environnement** : cumul de lisier **et** de boues de station d'épuration
-  industrielle épandus en zone vulnérable, aux abords de la Loire (Natura 2000) et d'un
-  captage d'eau potable — risque nitrates.
+  industrielle épandus en zone vulnérable aux nitrates, dans un secteur proche de la vallée
+  de la Loire (Natura 2000 à ~1,9 km) — enjeu de qualité de l'eau.
 - **Montage** : une société **sans foncier propre**, entièrement dépendante d'un tiers pour
   l'épandage et d'un intégrateur pour les animaux.
 - **Cadre local** : parc naturel régional, proximité de Saumur et de sites classés,
