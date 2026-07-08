@@ -1,2 +1,6 @@
 .DS_Store
 
+
+# Notes internes confidentielles (hors site public)
+notes-privees/
+.gstack/

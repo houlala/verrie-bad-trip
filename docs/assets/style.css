@@ -61,3 +61,145 @@ h1 { margin-top: 0; }
   color: var(--muted);
   font-size: 0.9rem;
 }
+
+/* --- Boutons --- */
+.btn {
+  display: inline-block;
+  padding: 0.8rem 1.6rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+}
+.btn-primary:hover {
+  background: #256a4c;
+  text-decoration: none;
+}
+.cta-row {
+  margin: 1.75rem 0;
+}
+
+/* --- Hero (page d'accueil) --- */
+.hero {
+  margin: 0 0 1.25rem;
+}
+.hero img {
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+}
+.hero-caption {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin: 0.4rem 0 0;
+}
+.hero-title {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin: 0 0 0.75rem;
+}
+.lead {
+  font-size: 1.15rem;
+  color: var(--text);
+  margin: 0;
+}
+
+/* --- Faits en bref --- */
+.facts {
+  margin: 2.5rem 0;
+}
+.facts-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.facts-list li {
+  padding: 0.5rem 0 0.5rem 1.75rem;
+  border-bottom: 1px solid var(--border);
+  position: relative;
+}
+.facts-list li::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: 700;
+}
+.facts-list li:last-child {
+  border-bottom: 0;
+}
+
+/* --- Carte de situation --- */
+figure.map {
+  margin: 2.5rem 0;
+}
+figure.map img {
+  width: 100%;
+  display: block;
+  border: 1px solid var(--border);
+}
+figure.map figcaption {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-top: 0.5rem;
+}
+
+/* --- Raisons de s'opposer --- */
+.reasons {
+  margin: 2.5rem 0;
+}
+.reason-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+.reason {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 1.1rem;
+}
+.reason h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.05rem;
+}
+.reason p {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--text);
+}
+@media (max-width: 640px) {
+  .reason-grid { grid-template-columns: 1fr; }
+  .hero-title { font-size: 1.6rem; }
+}
+
+/* --- Encart urgence --- */
+.urgent {
+  background: #fff8e6;
+  border: 1px solid #f0dca0;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin: 2.5rem 0;
+}
+.urgent p { margin: 0; }
+
+/* --- Section pétition --- */
+.petition {
+  background: #f2f9f5;
+  border: 1px solid #d7ece0;
+  border-radius: 10px;
+  padding: 1.75rem;
+  margin: 2.5rem 0;
+}
+.petition h2 { margin-top: 0; }
+.petition .sib-form,
+.petition .sib-form-container { background: transparent !important; }
+
+/* --- Lien « pour aller plus loin » --- */
+.more {
+  color: var(--muted);
+  font-size: 0.95rem;
+}

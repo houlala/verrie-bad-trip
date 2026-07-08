@@ -1,74 +1,71 @@
 ---
 layout: default
-title: Accueil
 ---
 
-# Projet d'élevage de veaux de boucherie à Verrie (Le Moyer)
+<section class="hero">
+  <img src="{{ '/assets/images/veaux-interaction-cages-denkavit-l.jpg' | relative_url }}"
+       alt="Deux jeunes veaux passant la tête entre les barreaux d'un bâtiment d'élevage industriel">
+  <p class="hero-caption">Élevage de veaux de boucherie en bâtiment (photo d'illustration).</p>
+</section>
 
-Un projet d'élevage industriel de **560 veaux de boucherie** est en cours d'instruction
-sur la commune de **Verrie (49400, commune déléguée de Saumur)**, au lieu-dit **Le Moyer**.
-Cette page résume la demande officielle déposée en préfecture. Le détail pièce par pièce
-(PDF d'origine, texte intégral OCR et résumé) est sur la page [Le dossier]({{ '/dossier' | relative_url }}).
-Le projet est en **consultation publique** : voir la
-[page officielle de la préfecture](https://www.maine-et-loire.gouv.fr/Publications/Consultation-du-public/Consultations-en-cours/ICPE/SAS-DU-MOYER-a-Verrie).
+<h1 class="hero-title">560 veaux enfermés à vie, aux portes de Saumur</h1>
 
-## En bref
+<p class="lead">
+  Un projet veut installer un <strong>élevage industriel de 560 veaux de boucherie</strong> à
+  <strong>Verrie</strong>, à moins d'un kilomètre de Saumur. Enfermés en bâtiment, sur caillebotis,
+  nourris au lait en poudre, <strong>sans jamais sortir</strong>.
+  La consultation publique est ouverte : vous pouvez encore agir.
+</p>
 
-- **Porteur** : SAS DU MOYER (installation de M. Samuel Hermenier comme agriculteur + 1 emploi salarié).
-- **Dossier monté par** : Terrena Environnement (Ancenis), daté de mars 2026.
-- **Encadrement technique** : groupement Denkavit (intégrateur de veaux de boucherie).
-- **Régime** : demande d'**enregistrement** ICPE (rubrique 2101) — procédure allégée : une
-  **consultation du public** a lieu (celle en cours), mais pas l'enquête publique avec
-  commissaire enquêteur ni l'étude d'impact systématique du régime d'autorisation.
-- **Nature** : **création d'un site neuf**, un bâtiment de **4 tunnels**, **560 places de
-  veaux de boucherie sur caillebotis intégral** (sans litière), en gestion **lisier**.
+<p class="cta-row">
+  <a class="btn btn-primary" href="#petition">✍️ Signer la pétition</a>
+</p>
 
-## Le projet en détail
+<section class="facts">
+  <h2>C'est quoi ce projet&nbsp;?</h2>
+  <ul class="facts-list">
+    <li><strong>560 veaux de boucherie</strong> élevés en même temps, soit près de <strong>1 000 par an</strong>.</li>
+    <li>Enfermés <strong>en bâtiment</strong>, sur <strong>caillebotis</strong> (grilles), sans paille et sans accès à l'extérieur.</li>
+    <li>Séparés de leur mère et nourris principalement au <strong>lait en poudre</strong>.</li>
+    <li>À <strong>Verrie (Saumur)</strong>, dans le <strong>Parc naturel régional Loire-Anjou-Touraine</strong>.</li>
+  </ul>
+</section>
 
-**L'élevage.** Les veaux sont élevés sur caillebotis, sans paille en litière (la paille n'est
-distribuée qu'en alimentation). Ils sont nourris principalement au **lait en poudre**
-(≈ 210 kg/an/veau), complété de fibres/granulés (≈ 330 kg) et de paille (≈ 35 kg). Avec la
-rotation par bandes, cela représente de l'ordre de **~1 000 veaux par an**. Le site prévoit
-une réserve incendie de 120 m³, des silos d'aliment et une cuve de lactosérum.
+<figure class="map">
+  <img src="{{ '/assets/images/situtation-verrie.jpg' | relative_url }}"
+       alt="Carte situant la commune de Verrie, aux portes de Saumur, en bord de Loire">
+  <figcaption>Le site est prévu à Verrie, à moins d'1 km de Saumur et à environ 1,9 km de la Loire (zone Natura 2000).</figcaption>
+</figure>
 
-**Effluents.** L'atelier produirait **1 756 m³ de lisier par an**, stockés dans une **fosse
-géomembrane de 1 300 m³**, soit **3 528 unités d'azote**, 1 680 de P₂O₅ et 2 520 de potasse.
+<section class="reasons">
+  <h2>Pourquoi s'y opposer&nbsp;?</h2>
+  <div class="reason-grid">
+    <div class="reason">
+      <h3>🐄 Souffrance animale</h3>
+      <p>Caillebotis intégral, séparation précoce de la mère, engraissement intensif&nbsp;: des conditions incompatibles avec les besoins des veaux.</p>
+    </div>
+    <div class="reason">
+      <h3>💧 Eau &amp; environnement</h3>
+      <p>1&nbsp;756&nbsp;m³ de lisier par an épandus en zone vulnérable aux nitrates, tout près de la Loire.</p>
+    </div>
+    <div class="reason">
+      <h3>🏭 Élevage industriel</h3>
+      <p>Une société sans terres, dépendante d'un intégrateur, en plein parc naturel régional aux portes de Saumur.</p>
+    </div>
+  </div>
+</section>
 
-**Épandage.** La SAS DU MOYER **ne possède aucune terre**. La totalité du lisier serait
-épandue via un **contrat avec l'EARL Hermenier** (249,98 ha répartis sur Verrie, Saumur,
-Gennes-Val-de-Loire et Doué-en-Anjou). À noter : ces mêmes terres reçoivent déjà
-**~500 tonnes/an de boues de station d'épuration industrielle** (Marie Surgelés),
-soit +1 301 unités d'azote.
+<section class="urgent">
+  <p><strong>⏳ Vous avez jusqu'au 21 juillet 2026.</strong> Le projet est en consultation publique&nbsp;: c'est le moment de faire entendre votre voix.</p>
+</section>
 
-**Localisation sensible.** Le site se trouve en **zone vulnérable aux nitrates**, dans le
-**Parc naturel régional Loire-Anjou-Touraine**, à **moins d'un kilomètre de Saumur** et à
-environ **1,9 km de la zone Natura 2000 de la vallée de la Loire** (des Ponts-de-Cé à
-Montsoreau) ; plusieurs **ZNIEFF** sont recensées à proximité. Le dossier précise en revanche
-que le site n'est **ni en zone d'action renforcée, ni dans un périmètre de protection de
-captage d'eau potable** (les captages les plus proches sont à 4–5 km). Distances déclarées :
-bâtiment à l'habitation tierce la plus proche **361 m**, fosse **425 m**, cours d'eau le plus
-proche **200 m** (l'élevage est alimenté par le réseau public d'eau).
+<section id="petition" class="petition">
+  <h2>Signez la pétition</h2>
+  <p>Ajoutez votre nom pour dire non à ce projet d'élevage. Cela prend moins d'une minute.</p>
+  {% include petition-form.html %}
+</section>
 
-## Pourquoi ce projet nous inquiète
-
-- **Bien-être animal** : caillebotis intégral, séparation précoce d'avec la mère,
-  alimentation au lait de poudre, engraissement intensif — des conditions difficilement
-  compatibles avec les besoins biologiques de l'espèce (art. L214-1 du Code rural).
-- **Eau et environnement** : cumul de lisier **et** de boues de station d'épuration
-  industrielle épandus en zone vulnérable aux nitrates, dans un secteur proche de la vallée
-  de la Loire (Natura 2000 à ~1,9 km) — enjeu de qualité de l'eau.
-- **Montage** : une société **sans foncier propre**, entièrement dépendante d'un tiers pour
-  l'épandage et d'un intégrateur pour les animaux.
-- **Cadre local** : parc naturel régional, proximité de Saumur et de sites classés,
-  nuisances pour les riverains (odeurs, air, trafic).
-
-## Les pièces du dossier
-
-Toutes les pièces (PDF d'origine, texte intégral OCR et résumé) sont réunies sur la page
-**[Le dossier]({{ '/dossier' | relative_url }})** :
-
-- **Dossier 1** — Dossier d'enregistrement (cœur de la demande)
-- **Dossier 2** — Suite technique, incidences environnementales et annexes
-- **Dossier 3** — Carte d'aptitude des sols à l'épandage
-- **Dossier 4** — Plans de situation et d'exploitation
-- **Observation n°1** — Modèle de courrier d'opposition déjà transmis
+<p class="more">
+  Pour aller plus loin&nbsp;: consultez le <a href="{{ '/dossier' | relative_url }}">dossier complet</a>
+  et la <a href="{{ '/revue-de-presse' | relative_url }}">revue de presse</a>.
+</p>

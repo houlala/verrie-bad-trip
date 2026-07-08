@@ -4,10 +4,64 @@ title: Le dossier
 permalink: /dossier/
 ---
 
-Le projet est en **consultation publique**. Le dossier complet déposé par la SAS DU MOYER est
-consultable sur le site de la préfecture de Maine-et-Loire :
+Un projet d'élevage industriel de **560 veaux de boucherie** est en cours d'instruction sur la
+commune de **Verrie (49400, commune déléguée de Saumur)**, au lieu-dit **Le Moyer**. Cette page
+présente la demande officielle déposée en préfecture, puis le détail pièce par pièce.
 
+Le projet est en **consultation publique jusqu'au 21 juillet 2026** :
 👉 [Page officielle de la consultation (préfecture de Maine-et-Loire)](https://www.maine-et-loire.gouv.fr/Publications/Consultation-du-public/Consultations-en-cours/ICPE/SAS-DU-MOYER-a-Verrie)
+
+## En bref
+
+- **Porteur** : SAS DU MOYER (installation de M. Samuel Hermenier comme agriculteur + 1 emploi salarié).
+- **Dossier monté par** : Terrena Environnement (Ancenis), daté de mars 2026.
+- **Encadrement technique** : groupement Denkavit (intégrateur de veaux de boucherie).
+- **Régime** : demande d'**enregistrement** ICPE (rubrique 2101) — procédure allégée : une
+  **consultation du public** a lieu (celle en cours), mais pas l'enquête publique avec
+  commissaire enquêteur ni l'étude d'impact systématique du régime d'autorisation.
+- **Nature** : **création d'un site neuf**, un bâtiment de **4 tunnels**, **560 places de
+  veaux de boucherie sur caillebotis intégral** (sans litière), en gestion **lisier**.
+
+## Le projet en détail
+
+**L'élevage.** Les veaux sont élevés sur caillebotis, sans paille en litière (la paille n'est
+distribuée qu'en alimentation). Ils sont nourris principalement au **lait en poudre**
+(≈ 210 kg/an/veau), complété de fibres/granulés (≈ 330 kg) et de paille (≈ 35 kg). Avec la
+rotation par bandes, cela représente de l'ordre de **~1 000 veaux par an**. Le site prévoit
+une réserve incendie de 120 m³, des silos d'aliment et une cuve de lactosérum.
+
+**Effluents.** L'atelier produirait **1 756 m³ de lisier par an**, stockés dans une **fosse
+géomembrane de 1 300 m³**, soit **3 528 unités d'azote**, 1 680 de P₂O₅ et 2 520 de potasse.
+
+**Épandage.** La SAS DU MOYER **ne possède aucune terre**. La totalité du lisier serait
+épandue via un **contrat avec l'EARL Hermenier** (249,98 ha répartis sur Verrie, Saumur,
+Gennes-Val-de-Loire et Doué-en-Anjou). À noter : ces mêmes terres reçoivent déjà
+**~500 tonnes/an de boues de station d'épuration industrielle** (Marie Surgelés),
+soit +1 301 unités d'azote.
+
+**Localisation sensible.** Le site se trouve en **zone vulnérable aux nitrates**, dans le
+**Parc naturel régional Loire-Anjou-Touraine**, à **moins d'un kilomètre de Saumur** et à
+environ **1,9 km de la zone Natura 2000 de la vallée de la Loire** (des Ponts-de-Cé à
+Montsoreau) ; plusieurs **ZNIEFF** sont recensées à proximité. Le dossier précise en revanche
+que le site n'est **ni en zone d'action renforcée, ni dans un périmètre de protection de
+captage d'eau potable** (les captages les plus proches sont à 4–5 km). Distances déclarées :
+bâtiment à l'habitation tierce la plus proche **361 m**, fosse **425 m**, cours d'eau le plus
+proche **200 m** (l'élevage est alimenté par le réseau public d'eau).
+
+## Pourquoi ce projet nous inquiète
+
+- **Bien-être animal** : caillebotis intégral, séparation précoce d'avec la mère,
+  alimentation au lait de poudre, engraissement intensif — des conditions difficilement
+  compatibles avec les besoins biologiques de l'espèce (art. L214-1 du Code rural).
+- **Eau et environnement** : cumul de lisier **et** de boues de station d'épuration
+  industrielle épandus en zone vulnérable aux nitrates, dans un secteur proche de la vallée
+  de la Loire (Natura 2000 à ~1,9 km) — enjeu de qualité de l'eau.
+- **Montage** : une société **sans foncier propre**, entièrement dépendante d'un tiers pour
+  l'épandage et d'un intégrateur pour les animaux.
+- **Cadre local** : parc naturel régional, proximité de Saumur et de sites classés,
+  nuisances pour les riverains (odeurs, air, trafic).
+
+## Les pièces du dossier
 
 Pour faciliter la lecture, chaque pièce est proposée ici en trois formats : le **PDF
 d'origine**, le **texte intégral** issu de la reconnaissance optique (OCR, sans aucune
@@ -25,3 +79,9 @@ _Les fichiers « Texte intégral » reproduisent la reconnaissance optique brute
 scannés : des erreurs de reconnaissance (mots collés, accents, chiffres, pages inversées)
 sont possibles. Ils sont fournis à titre de transparence. Pour toute démarche officielle,
 faire foi du PDF d'origine et de la page de la préfecture._
+
+---
+
+<p class="cta-row">
+  <a class="btn btn-primary" href="{{ '/#petition' | relative_url }}">✍️ Signer la pétition</a>
+</p>
