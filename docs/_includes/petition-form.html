@@ -690,3 +690,31 @@
 </script>
 
 <script defer="" src="https://sibforms.com/forms/end-form/build/main.js"></script>
+<script>
+document.getElementById('CODE_POSTAL').addEventListener('input', function(e) {
+  const codePostal = e.target.value;
+  const selectVille = document.getElementById('VILLE');
+  const options = selectVille.querySelectorAll('option');
+
+  // Réinitialise toutes les options
+  options.forEach(option => {
+    option.style.display = '';
+  });
+
+  // Si le code postal est 49350, filtre les options
+  if (codePostal === '49350') {
+    options.forEach(option => {
+      if (option.value !== '69' && option.value !== '127') {
+        option.style.display = 'none';
+      }
+    });
+  } else if (codePostal.length >= 2) {
+      if(codePostal.startsWith('49')) {
+         selectVille.selectedIndex = 0
+      }
+      else {
+         selectVille.value = '177'
+      }
+  }
+});
+</script>
