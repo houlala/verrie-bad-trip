@@ -57,10 +57,6 @@ Le Moyer, à Verrie.
 Source : Saumur Kiosque (le-kiosque.org) ·
 [Lire l'article](https://www.le-kiosque.org/verrie-un-projet-delevage-de-plus-de-500-veaux-fait-debattre-les-elus-de-saumur/)
 
-> ⚠️ **Erreur du journal** : l'article indique que « le conseil municipal s'est largement
-> prononcé contre ce projet ». C'est inexact : **le conseil municipal de Saumur s'est
-> largement prononcé POUR ce projet, et non contre.**
-
 L'article relate le débat au sein du conseil municipal de Saumur, appelé à se prononcer sur le
 projet d'élevage de 560 veaux de boucherie dans la commune voisine de Verrie. Il décrit un
 projet d'élevage **intégralement en bâtiment, sur caillebotis, sans pâturage ni accès
