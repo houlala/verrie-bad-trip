@@ -184,7 +184,24 @@ figure.map figcaption {
   padding: 1rem 1.25rem;
   margin: 2.5rem 0;
 }
-.urgent p { margin: 0; }
+.urgent h2 { margin: 0 0 0.75rem; font-size: 1.2rem; }
+.urgent p { margin: 0.9rem 0 0; }
+.dates-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.dates-list li {
+  padding: 0.55rem 0 0.55rem 1.9rem;
+  position: relative;
+  border-bottom: 1px solid #f0dca0;
+}
+.dates-list li:last-child { border-bottom: 0; }
+.dates-list li::before {
+  content: "📅";
+  position: absolute;
+  left: 0;
+}
 
 /* --- Section pétition --- */
 .petition {
