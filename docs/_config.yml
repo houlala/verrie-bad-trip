@@ -6,7 +6,10 @@ lang: fr
 # baseurl : à remplir seulement si le site est servi sur une sous-URL
 # (ex. "/mon-repo" pour https://pseudo.github.io/mon-repo). Laisser vide sinon.
 baseurl: ""
-url: ""
+url: "https://verrie-bad-trip.houla.net"
+
+# Image affichée lors du partage sur les réseaux sociaux (Facebook, X, WhatsApp…)
+image: /assets/images/verrie-elevage-560-veaux-agissons.jpg
 
 # Fichiers à ne pas publier
 exclude:
