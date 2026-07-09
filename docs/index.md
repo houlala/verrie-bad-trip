@@ -27,7 +27,7 @@ layout: default
     <li><strong>560 veaux de boucherie</strong> élevés en même temps, soit près de <strong>1 000 par an</strong>.</li>
     <li>Enfermés <strong>en bâtiment</strong>, sur <strong>caillebotis</strong> (grilles), sans paille et sans accès à l'extérieur.</li>
     <li>Séparés de leur mère et nourris principalement au <strong>lait en poudre</strong>.</li>
-    <li>À <strong>Verrie (Saumur)</strong>, dans le <strong>Parc naturel régional Loire-Anjou-Touraine</strong>.</li>
+    <li>À <strong>Verrie</strong>, aux portes de Saumur, dans le <strong>Parc naturel régional Loire-Anjou-Touraine</strong>.</li>
   </ul>
 </section>
 
@@ -85,7 +85,24 @@ layout: default
 
 <section id="petition" class="petition">
   <h2>Signez la pétition</h2>
-  <p>Ajoutez votre nom pour dire non à ce projet d'élevage. Cela prend moins d'une minute.</p>
+
+  <div class="petition-text">
+    <p class="petition-lead"><strong>Pétition adressée au maire et au conseil municipal de Verrie, au préfet de Maine-et-Loire, ainsi qu'aux communes de Saumur et de Gennes-Val-de-Loire.</strong></p>
+    <p class="petition-lead"><strong>Nous, citoyennes et citoyens signataires, vous demandons de ne pas autoriser le projet d'élevage de 560 veaux de boucherie de la SAS du Moyer, à Verrie.</strong></p>
+
+    <details class="petition-more">
+      <summary>Lire la suite</summary>
+      <p>Ce projet prévoit l'engraissement, dans un bâtiment fermé, de <strong>560 veaux de boucherie</strong> en même temps, près de <strong>1 000 animaux par an</strong>. Les veaux y seraient élevés sur <strong>caillebotis intégral, sans litière de paille</strong>, séparés précocement de leur mère et nourris principalement au lait en poudre, <strong>sans jamais accéder à l'extérieur ni pâturer</strong>. Ces conditions privent les animaux de l'essentiel de leurs comportements naturels.</p>
+
+      <p>L'installation produirait <strong>1 756 m³ de lisier par an</strong>, épandus en <strong>zone vulnérable aux nitrates</strong>, dans le <strong>Parc naturel régional Loire-Anjou-Touraine</strong>, à moins d'un kilomètre de Saumur et à environ 1,9 km d'une zone Natura 2000 de la vallée de la Loire.</p>
+
+      <p>Il s'agit enfin d'un élevage <strong>hors-sol</strong>, porté par une société qui ne possède pas de terres et dépend d'un contrat d'épandage et d'un intégrateur : un modèle industriel, à rebours d'une agriculture paysanne, locale et respectueuse du vivant.</p>
+
+      <p>Pour toutes ces raisons, nous vous demandons de <strong>ne pas accorder ce projet</strong>, de refuser l'autorisation d'exploiter et d'émettre un avis défavorable.</p>
+    </details>
+  </div>
+
+  <p>Ajoutez votre nom pour soutenir cette demande. Cela prend moins d'une minute.</p>
   {% include petition-form.html %}
 </section>
 

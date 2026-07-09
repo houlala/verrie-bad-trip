@@ -198,6 +198,23 @@ figure.map figcaption {
 .petition .sib-form,
 .petition .sib-form-container { background: transparent !important; }
 
+/* Texte de la pétition */
+.petition-text { margin-bottom: 1.5rem; }
+.petition-lead { margin: 0 0 0.6rem; }
+.petition-more { margin-top: 0.75rem; }
+.petition-more summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-weight: 700;
+  list-style: none;
+  display: inline-block;
+}
+.petition-more summary::-webkit-details-marker { display: none; }
+.petition-more summary::before { content: "▸ "; }
+.petition-more[open] summary::before { content: "▾ "; }
+.petition-more summary:hover { text-decoration: underline; }
+.petition-more p { margin: 0.9rem 0 0; }
+
 /* --- Lien « pour aller plus loin » --- */
 .more {
   color: var(--muted);

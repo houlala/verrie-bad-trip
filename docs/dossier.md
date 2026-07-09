@@ -5,7 +5,7 @@ permalink: /dossier/
 ---
 
 Un projet d'élevage industriel de **560 veaux de boucherie** est en cours d'instruction sur la
-commune de **Verrie (49400, commune déléguée de Saumur)**, au lieu-dit **Le Moyer**. Cette page
+commune de **Verrie (49400)**, aux portes de Saumur, au lieu-dit **Le Moyer**. Cette page
 présente la demande officielle déposée en préfecture, puis le détail pièce par pièce.
 
 Le projet est en **consultation publique jusqu'au 21 juillet 2026** :
