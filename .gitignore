@@ -3,3 +3,8 @@
 
 # Notes internes confidentielles (hors site public)
 notes-privees/
+
+# Build Jekyll local (prévisualisation, non publié)
+_site/
+.jekyll-cache/
+.jekyll-metadata
