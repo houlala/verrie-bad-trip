@@ -65,6 +65,13 @@ layout: default
   {% include petition-form.html %}
 </section>
 
+<section id="observation" class="observation">
+  <h2>Envoyez une observation défavorable à la préfecture</h2>
+  <p>La décision du préfet sera influencée par les avis consultatifs des communes, mais aussi l'engagement et les prises de positions de leurs habitants et habitantes. N'hésitez donc pas à envoyer une "Observation" à cette adresse: pref-icpe@maine-et-loire.gouv.fr</p>
+  <p>Lire les <a href="https://www.maine-et-loire.gouv.fr/Publications/Consultation-du-public/Consultations-en-cours/ICPE/SAS-DU-MOYER-a-Verrie">observations</a> déjà déposées.</p>
+</section>
+
+
 <p class="more">
   Pour aller plus loin&nbsp;: consultez le <a href="{{ '/dossier' | relative_url }}">dossier complet</a>
   et la <a href="{{ '/revue-de-presse' | relative_url }}">revue de presse</a>.
