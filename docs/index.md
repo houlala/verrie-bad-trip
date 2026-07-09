@@ -74,7 +74,7 @@ layout: default
     </div>
     <div class="reason">
       <h3>🔥​ Risque d'incendie</h3>
-      <p>En 2025 dans un élevage des Deux-Sèvres, une filiale de Terrena, la coopérative agricole associée au projet, a été épinglée pour sa gestion et stockage de fientes « non conformes », entraînant un début d'incendie. <a href="https://www.ouest-france.fr/economie/agroalimentaire/neuf-mois-apres-un-feu-de-fientes-letat-epingle-cet-elevage-de-poules-industriel-des-deux-sevres-007cf46a-7787-11f1-980a-970130a57304)">Lire l'article</a>. Face aux canicules qui s'installent chaque année, ce type de risque ne va faire qu'en s'accroîssant avec des élevages intensifs.</p>
+      <p>En 2025 dans un élevage des Deux-Sèvres, une filiale de Terrena, la coopérative agricole associée au projet, a été épinglée pour sa gestion et stockage de fientes « non conformes », entraînant un début d'incendie. <a href="https://www.ouest-france.fr/economie/agroalimentaire/neuf-mois-apres-un-feu-de-fientes-letat-epingle-cet-elevage-de-poules-industriel-des-deux-sevres-007cf46a-7787-11f1-980a-970130a57304">Lire l'article</a>. Face aux canicules qui s'installent chaque année, ce type de risque ne va faire qu'en s'accroîssant avec des élevages intensifs.</p>
     </div>
   </div>
 </section>
