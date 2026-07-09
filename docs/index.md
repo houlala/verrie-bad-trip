@@ -41,17 +41,43 @@ layout: default
   <h2>Pourquoi s'y opposer&nbsp;?</h2>
   <div class="reason-grid">
     <div class="reason">
+      <div class="reason">
+        <h3>🏭 Terrena, géant de l'agrobusiness aux pratiques problématiques</h3>
+        <p>Le porteur de projet ne possèdera ni les terres, ni les bâtiments, et est porté par Terrena, la plus grande coopérative agricole de France, régulièrement épinglées pour ses pratiques douteuses. Terrena a notamment été muti-condamnée pour des accidents mortels sur ses sites. <a href="[https://www.ouest-france.fr/economie/agroalimentaire/neuf-mois-apres-un-feu-de-fientes-letat-epingle-cet-elevage-de-poules-industriel-des-deux-sevres-007cf46a-7787-11f1-980a-970130a57304)](https://lutte-ouvriere.org/portail/breves/mort-travail-responsabilite-terrena-nouvelle-fois-reconnue-par-justice-167114.html)">Lire l'article</a></p></p>
+    </div>
       <h3>🐄 Souffrance animale</h3>
       <p>Caillebotis intégral, séparation précoce de la mère, engraissement intensif&nbsp;: des conditions incompatibles avec les besoins des veaux.</p>
     </div>
     <div class="reason">
-      <h3>💧 Eau &amp; environnement</h3>
+      <h3>☠️​ Pollution des cours d'eau</h3>
       <p>1&nbsp;756&nbsp;m³ de lisier par an épandus en zone vulnérable aux nitrates, tout près de la Loire.</p>
     </div>
     <div class="reason">
-      <h3>🏭 Élevage industriel</h3>
-      <p>Une société sans terres, dépendante d'un intégrateur, en plein parc naturel régional aux portes de Saumur.</p>
+      <h3>💧 Ponction importante sur nos ressources en eau potable</h3>
+      <p>2&nbsp;475&nbsp;m³ d'eau par an seront nécessaires à l'abreuvage et au nettoyage (équivalent à la consommation en eau de 45-50 personnes), dans une région déjà soumise à une forte tension hydrique, et des restrictions d'eau déjà en place aujourd'hui.</p>
     </div>
+    <div class="reason">
+      <h3>⚡​​ Consommation d'électricité accrue</h3>
+      <p>Face aux canicules, les veaux entassés devront être raffraichis, entraînant une surconsommation en eau et en électricité.</p>
+    </div>
+    <div class="reason">
+      <h3>🥩​ Santé alimentaire</h3>
+      <p>Production de viande d'élevage intensif, nourrie aux antibiotiques et aux ratios oméga-6/oméga-3 problématiques, liés à des maladies cardiovasculaires et certains cancers.</p>
+    </div>
+    <div class="reason">
+      <h3>🦠​​ Maladies transmissibles</h3>
+      <p>L’entassement d’animaux est propice aux maladies transmissibles qui peuvent même muter en souches plus dangereuses encore, conduisant régulièrement l'état à faire abattre les troupeaux. Ce risque sera accru avec une telle concentration.</p>
+    </div>
+    <div class="reason">
+    <div class="reason">
+      <h3>🧬​ Risques futurs d'épidémies</h3>
+      <p>La présence forte d'antibiotiques dans le lisier se retrouvera dans nos cours d'eau et nappes phréatiques, contribuant au déséquilibre des écosystèmes et au risque accru de souches de maladies résistantes aux antibiotiques.</p>
+    </div>
+    <div class="reason">
+      <h3>🔥​ Risque d'incendie</h3>
+      <p>En 2025 dans un élevage des Deux-Sèvres, une filiale de Terrena, la coopérative agricole associée au projet, a été épinglée pour sa gestion et stockage de fientes « non conformes », entraînant un début d'incendie. <a href="https://www.ouest-france.fr/economie/agroalimentaire/neuf-mois-apres-un-feu-de-fientes-letat-epingle-cet-elevage-de-poules-industriel-des-deux-sevres-007cf46a-7787-11f1-980a-970130a57304)">Lire l'article</a></p>. Face aux canicules qui s'installent chaque année, ce type de risque ne va faire qu'en s'accroîssant dans l'élevage intensif.</p>
+    </div>
+    <div class="reason">
   </div>
 </section>
 
