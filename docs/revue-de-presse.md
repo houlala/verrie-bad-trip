@@ -9,6 +9,30 @@ boucherie de la SAS DU MOYER à Verrie. Elle est mise à jour au fil des parutio
 
 ---
 
+## Ouest-France (Courrier de l'Ouest) — 8 juillet 2026
+
+**« Projet de "ferme à veaux" en Maine-et-Loire : face à la polémique, un maire rappelle en urgence son conseil municipal »**
+Source : Ouest-France / Courrier de l'Ouest · La rédaction avec Marc Eskenazi (correspondant) · 8 juillet 2026 ·
+[Lire l'article](https://www.ouest-france.fr/pays-de-la-loire/saumur-49400/projet-de-ferme-a-veaux-en-maine-et-loire-face-a-la-polemique-un-maire-rappelle-en-urgence-son-conseil-municipal-a4b3ad22-7aba-11f1-b6b9-5740d58e7caf)
+
+Estimant être « allé trop vite », **Pascal Vincent, maire de Gennes-Val-de-Loire, convoque en
+urgence son conseil municipal le lundi 13 juillet 2026** pour redébattre de l'avis (consultatif)
+à rendre sur le projet de « ferme à veaux » de Verrie. Le **29 juin 2026**, le conseil avait
+donné un **avis favorable**, seuls quatre élus s'y opposant (Daniel Queyroi, Stéphane Paris et
+Patricia Cochet, de la minorité, et Bérangère Royer, maire déléguée de Saint-Martin-de-la-Place).
+Le lendemain, **30 juin 2026**, le conseil municipal de Saumur a au contraire émis un **avis
+défavorable**, à l'exception de quatre élus de la minorité (Anne-Laure Blin, Jocelyn Merceron,
+Emmanuelle Douaré et Fabienne Sourdeau). L'article rappelle les caractéristiques du projet :
+un **bâtiment de 3 016 m²** en quatre modules pour **560 veaux de boucherie**, élevés
+**intégralement en bâtiment sur caillebotis** (lisier), avec une **fosse extérieure de 1 300 m³**,
+**sans pâturage ni parcours extérieur**, en **ventilation dynamique** et nourris de produits à
+base de lait, de granulés et de fibres végétales. Les effluents seraient épandus sur des terres
+situées à Verrie (60 %), Saumur (24 %), Gennes-Val-de-Loire (14 %) et Doué-en-Anjou (2 %).
+Sensible aux réactions du public et des habitants, le maire de Gennes-Val-de-Loire a pris la
+décision de rouvrir le débat.
+
+---
+
 ## Agronews — 2 juillet 2026
 
 **« Un élevage de 560 veaux de boucherie en projet à Verrie »**
