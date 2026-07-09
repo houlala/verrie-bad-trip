@@ -43,7 +43,7 @@ layout: default
     <div class="reason">
       <div class="reason">
         <h3>🏭 Terrena, géant de l'agrobusiness aux pratiques problématiques</h3>
-        <p>Le porteur de projet ne possèdera ni les terres, ni les bâtiments, et est porté par Terrena, la plus grande coopérative agricole de France, régulièrement épinglées pour ses pratiques douteuses. Terrena a notamment été muti-condamnée pour des accidents mortels sur ses sites. <a href="[https://www.ouest-france.fr/economie/agroalimentaire/neuf-mois-apres-un-feu-de-fientes-letat-epingle-cet-elevage-de-poules-industriel-des-deux-sevres-007cf46a-7787-11f1-980a-970130a57304)](https://lutte-ouvriere.org/portail/breves/mort-travail-responsabilite-terrena-nouvelle-fois-reconnue-par-justice-167114.html)">Lire l'article</a></p></p>
+        <p>Le porteur de projet ne possèdera ni les terres, ni les bâtiments, et est porté par Terrena, la plus grande coopérative agricole de France, régulièrement épinglées pour ses pratiques douteuses. Terrena a notamment été muti-condamnée pour des accidents mortels sur ses sites. <a href="https://lutte-ouvriere.org/portail/breves/mort-travail-responsabilite-terrena-nouvelle-fois-reconnue-par-justice-167114.html">Lire l'article</a></p></p>
     </div>
       <h3>🐄 Souffrance animale</h3>
       <p>Caillebotis intégral, séparation précoce de la mère, engraissement intensif&nbsp;: des conditions incompatibles avec les besoins des veaux.</p>
@@ -75,7 +75,7 @@ layout: default
     </div>
     <div class="reason">
       <h3>🔥​ Risque d'incendie</h3>
-      <p>En 2025 dans un élevage des Deux-Sèvres, une filiale de Terrena, la coopérative agricole associée au projet, a été épinglée pour sa gestion et stockage de fientes « non conformes », entraînant un début d'incendie. <a href="https://www.ouest-france.fr/economie/agroalimentaire/neuf-mois-apres-un-feu-de-fientes-letat-epingle-cet-elevage-de-poules-industriel-des-deux-sevres-007cf46a-7787-11f1-980a-970130a57304)">Lire l'article</a></p>. Face aux canicules qui s'installent chaque année, ce type de risque ne va faire qu'en s'accroîssant dans l'élevage intensif.</p>
+      <p>En 2025 dans un élevage des Deux-Sèvres, une filiale de Terrena, la coopérative agricole associée au projet, a été épinglée pour sa gestion et stockage de fientes « non conformes », entraînant un début d'incendie. <a href="https://www.ouest-france.fr/economie/agroalimentaire/neuf-mois-apres-un-feu-de-fientes-letat-epingle-cet-elevage-de-poules-industriel-des-deux-sevres-007cf46a-7787-11f1-980a-970130a57304)">Lire l'article</a> Face aux canicules qui s'installent chaque année, ce type de risque ne va faire qu'en s'accroîssant avec des élevages intensifs.</p>
     </div>
     <div class="reason">
   </div>
