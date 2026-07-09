@@ -53,13 +53,21 @@ proche **200 m** (l'élevage est alimenté par le réseau public d'eau).
 - **Bien-être animal** : caillebotis intégral, séparation précoce d'avec la mère,
   alimentation au lait de poudre, engraissement intensif — des conditions difficilement
   compatibles avec les besoins biologiques de l'espèce (art. L214-1 du Code rural).
-- **Eau et environnement** : cumul de lisier **et** de boues de station d'épuration
+- **Pollution de l'eau** : cumul de lisier **et** de boues de station d'épuration
   industrielle épandus en zone vulnérable aux nitrates, dans un secteur proche de la vallée
   de la Loire (Natura 2000 à ~1,9 km) — enjeu de qualité de l'eau.
+- **Ressources en eau déjà limitées** : **2 475 m³ d'eau par an** seront nécessaires pour l'abreuvage et le nettoyage. Cela correspond à la consommation annuelle d'environ **45 à 50 personnes**. Cette consommation intervient dans une région déjà soumise à une **forte tension sur la ressource en eau** et à des **restrictions préfectorales**.
+- **Consommation d'électricité accrue** : Lors des épisodes de canicule, les veaux confinés devront être refroidis, entraînant une augmentation de la consommation d'eau et d'électricité.
+- **Santé alimentaire**: Production de viande issue d'un élevage intensif, avec un recours important aux antibiotiques et des **ratios oméga-6/oméga-3 défavorables**, associés à un risque accru de maladies cardiovasculaires et de certains cancers.
+- **Maladies transmissibles**: La forte concentration d'animaux favorise la propagation des maladies infectieuses et peut favoriser l'apparition de souches plus virulentes. Ces situations conduisent régulièrement à l'abattage sanitaire de troupeaux. Ce risque est renforcé par une telle densité d'élevage.
+- **Risques futurs d'épidémies**: Les résidus d'antibiotiques présents dans le lisier peuvent se retrouver dans les cours d'eau et les nappes phréatiques, contribuant à la diffusion de bactéries résistantes aux antibiotiques et au déséquilibre des écosystèmes.
+- **Risque d'incendie**: En 2025, dans un élevage des Deux-Sèvres, une filiale de Terrena, coopérative agricole associée au projet, a été mise en cause pour un **stockage de fientes non conforme**, ayant entraîné un départ d'incendie. Avec des canicules plus fréquentes et plus intenses, le risque d'incendie dans les élevages intensifs est susceptible d'augmenter. 👉 [Article de presse](https://lutte-ouvriere.org/portail/breves/mort-travail-responsabilite-terrena-nouvelle-fois-reconnue-par-justice-167114.html)
 - **Montage** : une société **sans foncier propre**, entièrement dépendante d'un tiers pour
-  l'épandage et d'un intégrateur pour les animaux.
+  l'épandage et d'un intégrateur pour les animaux.Le porteur de projet ne possèdera ni les terres, ni les bâtiments, et est porté par **Terrena**, la plus grande coopérative agricole de France, régulièrement épinglée pour ses pratiques controversées. Terrena a notamment été **condamnée à plusieurs reprises à la suite d'accidents mortels** sur ses sites. 👉 [Article de presse](https://www.ouest-france.fr/economie/agroalimentaire/neuf-mois-apres-un-feu-de-fientes-letat-epingle-cet-elevage-de-poules-industriel-des-deux-sevres-007cf46a-7787-11f1-980a-970130a57304)
 - **Cadre local** : parc naturel régional, proximité de Saumur et de sites classés,
   nuisances pour les riverains (odeurs, air, trafic).
+
+---
 
 ## Les pièces du dossier
 
