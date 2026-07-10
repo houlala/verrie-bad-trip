@@ -83,7 +83,7 @@ layout: default
   <h2>Signez la pétition</h2>
 
   <div class="petition-text">
-    <p class="petition-lead"><strong>Pétition adressée au maire et au conseil municipal de Verrie, au préfet de Maine-et-Loire, ainsi qu'aux communes de Saumur et de Gennes-Val-de-Loire.</strong></p>
+    <p class="petition-lead"><strong>Pétition adressée à Monsieur Gilles Bardin, maire de Verrie, et à son conseil municipal ; à Monsieur François Pesneau, préfet de Maine-et-Loire ; ainsi qu'à Monsieur Pascal Vincent, maire de Gennes-Val-de-Loire.</strong></p>
     <p class="petition-lead"><strong>Nous, citoyennes et citoyens signataires, vous demandons de ne pas autoriser le projet d'élevage de 560 veaux de boucherie de la SAS du Moyer, à Verrie.</strong></p>
 
     <details class="petition-more">
