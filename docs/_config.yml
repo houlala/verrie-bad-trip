@@ -1,4 +1,7 @@
 # Configuration Jekyll
+# brand : nom court affiché en haut à gauche (header/logo).
+# title : titre long utilisé pour la balise <title> et les partages réseaux sociaux (SEO).
+brand: Verrie Bad Trip
 title: Signer la pétition ! Contre la ferme des 560 veaux à Verrie.
 description: L'horreur pour les veaux et l'environnement aux portes de Saumur et de Gennes-Val-de-Loire. Signez la pétition !
 lang: fr
