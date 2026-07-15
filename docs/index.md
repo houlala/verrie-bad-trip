@@ -99,6 +99,7 @@ layout: default
   </div>
 
   <p>Ajoutez votre nom pour soutenir cette demande. Cela prend moins d'une minute.</p>
+  <p class="signatures">{{ site.signatures }}</p>
   {% include petition-form.html %}
 </section>
 

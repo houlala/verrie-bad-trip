@@ -232,6 +232,11 @@ figure.map figcaption {
 .petition-more summary:hover { text-decoration: underline; }
 .petition-more p { margin: 0.9rem 0 0; }
 
+.petition .signatures {
+  font-size: 1.1rem;
+  color: var(--accent);
+
+}
 /* --- Lien « pour aller plus loin » --- */
 .more {
   color: var(--muted);
