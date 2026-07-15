@@ -30,6 +30,23 @@ le projet.
 
 ---
 
+## Ouest-France (Courrier de l'Ouest) — 13 juillet 2026
+
+**« Cette commune du Maine-et-Loire vote à nouveau en faveur du controversé projet de "ferme à veaux" »**
+Source : Ouest-France / Courrier de l'Ouest · 13 juillet 2026 ·
+[Lire l'article](https://www.ouest-france.fr/pays-de-la-loire/saumur-49400/cette-commune-du-maine-et-loire-vote-a-nouveau-en-faveur-du-controverse-projet-de-ferme-a-veaux-b3c9f0d8-7ee2-11f1-b616-dddac7a26294)
+
+Débattu pour la **seconde fois en conseil municipal extraordinaire à Gennes-Val-de-Loire le
+lundi 13 juillet 2026**, le projet de « ferme à veaux » de Verrie a de nouveau recueilli un
+**avis favorable** des élus : **21 voix pour, 12 contre et 3 abstentions**, lors d'un **vote à
+bulletin secret**. Le débat s'est tenu devant un **public nombreux (près d'une centaine, voire
+cent vingt personnes) et défavorable**, dont les interventions ont parfois été « énervées ».
+Les élus ont voulu **réduire leur champ d'intervention à la seule question concernant la
+commune** : les **34 ha** qui recevront l'épandage, lequel serait « enfoui, et non en surface,
+donc sans odeur », selon **Olivier Leroy, maire des Rosiers-sur-Loire**.
+
+---
+
 ## Ouest-France (Courrier de l'Ouest) — 8 juillet 2026
 
 **« Projet de "ferme à veaux" en Maine-et-Loire : face à la polémique, un maire rappelle en urgence son conseil municipal »**
