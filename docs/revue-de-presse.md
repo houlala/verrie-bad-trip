@@ -9,6 +9,27 @@ boucherie de la SAS DU MOYER à Verrie. Elle est mise à jour au fil des parutio
 
 ---
 
+## Saumur Kiosque — 15 juillet 2026
+
+**« Gennes-Val de Loire. La municipalité une nouvelle fois favorable au projet d'élevage de veaux de boucherie »**
+Source : Saumur Kiosque (le-kiosque.org) · 15 juillet 2026 ·
+[Lire l'article](https://www.le-kiosque.org/gennes-val-de-loire-la-municipalite-une-nouvelle-fois-favorable-au-projet-delevage-de-veaux-de-boucherie/)
+
+Réuni en **conseil municipal exceptionnel le lundi 13 juillet 2026**, le conseil de
+**Gennes-Val-de-Loire a de nouveau émis un avis favorable** au projet d'élevage de 560 veaux
+de la SAS du Moyer à Verrie. La commune s'était déjà prononcée pour le projet le **29 juin
+2026**, mais avait fait « machine arrière » pour réétudier le dossier — de nombreuses
+interrogations ayant été exprimées, notamment sur la **ressource en eau** et le **bien-être
+animal**. Ce réexamen, centré sur le **plan d'épandage** concernant Gennes-Val-de-Loire, n'a
+pas changé le résultat : avis favorable par **21 voix pour, 12 contre et 3 abstentions**
+(36 votants sur 37 élus). La décision est vivement contestée par le parti **REV (Révolution
+Écologique pour le Vivant) Pays de la Loire** et son représentant **Yann Godeau**, qui
+dénonce une séance « affligeante » (chiffres « non vérifiés » et « faux », « déni
+démocratique ») et demande aux maires de Verrie et de Gennes-Val-de-Loire de ne pas soutenir
+le projet.
+
+---
+
 ## Ouest-France (Courrier de l'Ouest) — 8 juillet 2026
 
 **« Projet de "ferme à veaux" en Maine-et-Loire : face à la polémique, un maire rappelle en urgence son conseil municipal »**
