@@ -11,10 +11,10 @@ layout: default
 <h1 class="hero-title">560 veaux enfermés à vie, aux portes de Saumur</h1>
 
 <p class="lead">
-  Un projet veut installer un <strong>élevage industriel de 560 veaux de boucherie</strong> à
-  <strong>Verrie</strong>, à moins d'un kilomètre de Saumur. Enfermés en bâtiment, sur caillebotis,
+  Il s'agit d'un projet d'<strong>élevage industriel de 560 veaux de boucherie</strong> à
+  <strong>Verrie</strong> (ville voisine de Saumur, Gennes-Val-de-Loire, Dénezé-sous-Doué, Doué-en-Anjou, Les Ulmes, et Rou-Marson). Enfermés en bâtiment, sur caillebotis,
   nourris au lait en poudre, <strong>sans jamais sortir</strong>.
-  La consultation publique est ouverte : vous pouvez encore agir.
+  La consultation publique est passée mais vous pouvez encore agir.
 </p>
 
 <p class="cta-row">
