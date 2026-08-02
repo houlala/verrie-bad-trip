@@ -14,7 +14,9 @@ layout: default
   Il s'agit d'un projet d'<strong>élevage industriel de 560 veaux de boucherie</strong> à
   <strong>Verrie</strong> (ville voisine de Saumur, Gennes-Val-de-Loire, Dénezé-sous-Doué, Doué-en-Anjou, Les Ulmes, et Rou-Marson). Enfermés en bâtiment, sur caillebotis,
   nourris au lait en poudre, <strong>sans jamais sortir</strong>.
-  La consultation publique est passée mais vous pouvez encore agir.
+  Les conseils municipaux de <strong>Saumur</strong> et de <strong>Verrie</strong> ont voté
+  <strong>contre</strong> ce projet. Mais la décision finale revient au préfet&nbsp;: la
+  mobilisation continue.
 </p>
 
 <p class="cta-row">
@@ -100,26 +102,38 @@ layout: default
 
   <p>Ajoutez votre nom pour soutenir cette demande. Cela prend moins d'une minute.</p>
   <p class="signatures">{{ site.signatures }}</p>
+  <p>🎯 Prochain objectif&nbsp;: <strong>10&nbsp;000 signatures</strong> pour peser sur la décision du préfet.</p>
   {% include petition-form.html %}
 </section>
 
 <section class="urgent">
-  <h2>⏳ Il faut agir vite ! Voici les dates clés</h2>
+  <h2>✊ Où en est-on&nbsp;? Une victoire d'étape, mais rien n'est joué</h2>
   <ul class="dates-list">
-    <li><strong>13 juillet 2026</strong> — Le conseil municipal de Gennes-Val-de-Loire revote son avis sur le projet.</li>
-    <li><strong>Jusqu'au 21 juillet 2026</strong> — Consultation publique ouverte : dernier délai pour envoyer votre observation à la préfecture.</li>
-    <li><strong>28 juillet 2026</strong> — Le conseil municipal de Verrie, commune d'implantation, rend son avis.</li>
+    <li><strong>30 juin 2026</strong> — Le conseil municipal de <strong>Saumur</strong> vote un avis <strong>défavorable</strong> probablement grâce à notre mobilisation ! ✅</li>
+    <li><strong>13 juillet 2026</strong> — Le conseil municipal de <strong>Gennes-Val-de-Loire</strong> maintient, lui, un avis favorable (revote à bulletin secret).</li>
+    <li><strong>21 juillet 2026</strong> — Clôture de la consultation publique.</li>
+    <li><strong>28 juillet 2026</strong> — Devant plus de <strong>300 personnes</strong>, le conseil municipal de <strong>Verrie</strong> — commune d'implantation — vote <strong>CONTRE</strong> le projet. ✅</li>
+    <li><strong>À venir</strong> — Le <strong>préfet de Maine-et-Loire</strong> tranchera (arrêté attendu d'ici l'automne). Ces avis municipaux sont <strong>consultatifs</strong>&nbsp;: c'est lui qu'il faut convaincre maintenant.</li>
   </ul>
-  <p>Chaque signature et chaque observation comptent pour peser sur ces décisions.</p>
+  <p>Chaque signature et chaque courrier au préfet comptent pour peser sur la décision finale.</p>
 </section>
 
-<section id="observation" class="observation">
-  <h2>Envoyez une observation défavorable à la préfecture</h2>
-  <p>La décision du préfet sera influencée par les avis consultatifs des communes, mais aussi l'engagement et les prises de positions de leurs habitants et habitantes. N'hésitez donc pas à envoyer une "Observation" à cette adresse: pref-icpe@maine-et-loire.gouv.fr</p>
-  <p>Lire les <a href="https://www.maine-et-loire.gouv.fr/Publications/Consultation-du-public/Consultations-en-cours/ICPE/SAS-DU-MOYER-a-Verrie">observations</a> déjà déposées.</p>
+<section id="suite" class="observation">
+  <h2>Et maintenant&nbsp;? La partie n'est pas finie</h2>
+  <p>La consultation publique est close et deux communes — <strong>Saumur</strong> et <strong>Verrie</strong> — ont voté contre. La décision revient désormais au <strong>préfet de Maine-et-Loire</strong>, qui n'a pas encore tranché.</p>
+  <p><strong>L'action la plus utile aujourd'hui&nbsp;:</strong> <a href="#petition">signer et surtout faire signer la pétition</a>. Plus nous sommes nombreuses et nombreux, plus la pression sur le préfet est forte — visons les <strong>10&nbsp;000 signatures</strong>.</p>
+  <p><strong>Les prochains rounds&nbsp;:</strong> si le préfet autorisait malgré tout le projet, la bataille se poursuivrait sur le <strong>permis de construire</strong> (du ressort de l'agglomération de Saumur), puis, le cas échéant, par un <strong>recours juridique</strong>. Chaque signature d'aujourd'hui comptera pour ces étapes.</p>
 </section>
 
 <p class="more">
   Pour aller plus loin&nbsp;: consultez le <a href="{{ '/dossier' | relative_url }}">dossier complet</a>
   et la <a href="{{ '/revue-de-presse' | relative_url }}">revue de presse</a>.
+</p>
+
+<p class="more">
+  Suivez et rejoignez le collectif&nbsp;:
+  <a href="https://www.instagram.com/collectif_verrie_bad_trip">Instagram @collectif_verrie_bad_trip</a>
+  · <a href="https://www.facebook.com/people/Non-au-projet-usine-%C3%A0-veaux-Verrie-49/61591820644792/">page Facebook</a>
+  · <a href="https://www.facebook.com/groups/2021365562077233">groupe Facebook</a>
+  . Écrire au collectif <a href="mailto:verriebadtrip@protonmail.com">verriebadtrip@protonmail.com</a>
 </p>
