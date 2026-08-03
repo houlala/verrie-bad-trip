@@ -109,11 +109,11 @@ layout: default
 <section class="urgent">
   <h2>✊ Où en est-on&nbsp;? Une victoire d'étape, mais rien n'est joué</h2>
   <ul class="dates-list">
-    <li><strong>30 juin 2026</strong> — Le conseil municipal de <strong>Saumur</strong> vote un avis <strong>défavorable</strong> probablement grâce à notre mobilisation ! ✅</li>
-    <li><strong>13 juillet 2026</strong> — Le conseil municipal de <strong>Gennes-Val-de-Loire</strong> maintient, lui, un avis favorable (revote à bulletin secret).</li>
-    <li><strong>21 juillet 2026</strong> — Clôture de la consultation publique.</li>
-    <li><strong>28 juillet 2026</strong> — Devant plus de <strong>300 personnes</strong>, le conseil municipal de <strong>Verrie</strong> — commune d'implantation — vote <strong>CONTRE</strong> le projet. ✅</li>
     <li><strong>À venir</strong> — Le <strong>préfet de Maine-et-Loire</strong> tranchera (arrêté attendu d'ici l'automne). Ces avis municipaux sont <strong>consultatifs</strong>&nbsp;: c'est lui qu'il faut convaincre maintenant.</li>
+    <li><strong>28 juillet 2026</strong> — Devant plus de <strong>300 personnes</strong>, le conseil municipal de <strong>Verrie</strong> — commune d'implantation — vote <strong>CONTRE</strong> le projet. probablement grâce à notre mobilisation ! ✅</li>
+    <li><strong>21 juillet 2026</strong> — Clôture de la consultation publique.</li>
+    <li><strong>13 juillet 2026</strong> — Le conseil municipal de <strong>Gennes-Val-de-Loire</strong> maintient, lui, un avis favorable (revote à bulletin secret).</li>
+    <li><strong>30 juin 2026</strong> — Le conseil municipal de <strong>Saumur</strong> vote un avis <strong>défavorable</strong> ✅</li>
   </ul>
   <p>Chaque signature et chaque courrier au préfet comptent pour peser sur la décision finale.</p>
 </section>
