@@ -257,9 +257,6 @@ effluents seraient valorisés par épandage sur des terres situées à Verrie (6
 Source : Ouest-France / Courrier de l'Ouest · Annah Blouin-Favard · 1er juillet 2026 ·
 [Lire l'article](https://www.ouest-france.fr/economie/agriculture/elevage/quel-est-ce-projet-delevage-de-560-veaux-de-boucherie-qui-pourrait-sinstaller-aux-portes-de-saumur-dd6e0e72-752f-11f1-9172-187ee382b87f)
 
-> ⚠️ **Erreur du journal** : l'article indique que les élus se sont « en majorité » prononcés
-> contre le projet. C'est inexact : **le conseil municipal de Saumur s'est largement prononcé
-> POUR ce projet, et non contre.**
 
 Article présentant le projet, situé à **moins d'un kilomètre de Saumur**. Il précise que les
 élus ont été invités, le **mardi 30 juin 2026**, à donner leur avis sur la demande
@@ -273,6 +270,7 @@ de fibres végétales**. Les effluents seraient valorisés par épandage sur des
 Verrie (60 %), Saumur (24 %), Gennes-Val-de-Loire (14 %) et Doué-en-Anjou (2 %). Le projet est
 porté par la **SAS du Moyer**, qui a déposé une demande d'autorisation d'exploiter au lieu-dit
 Le Moyer, à Verrie.
+Les élus se sont, en majorité, prononcés contre le projet.
 
 ---
 
