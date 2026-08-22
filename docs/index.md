@@ -19,6 +19,15 @@ layout: default
   mobilisation continue.
 </p>
 
+<p class="lead">
+  Et ce n'est pas qu'une affaire verrienne&nbsp;: les <strong>1&nbsp;756&nbsp;m³ de lisier</strong>
+  produits chaque année par ces veaux — l'équivalent de <strong>plus de 30&nbsp;tonnes par
+  semaine</strong> — seraient transportés et épandus sur les terres agricoles des communes voisines&nbsp;:
+  <strong>Verrie (60&nbsp;%), Saumur (24&nbsp;%), Gennes-Val-de-Loire (14&nbsp;%) et
+  Doué-en-Anjou (2&nbsp;%)</strong>. Beaucoup d'habitant·es des alentours sont donc concerné·es —
+  pas seulement Verrie.
+</p>
+
 <p class="cta-row">
   <a class="btn btn-primary" href="#petition">✍️ Signer la pétition</a>
 </p>
@@ -130,10 +139,21 @@ layout: default
   et la <a href="{{ '/revue-de-presse' | relative_url }}">revue de presse</a>.
 </p>
 
-<p class="more">
-  Suivez et rejoignez le collectif&nbsp;:
-  <a href="https://www.instagram.com/collectif_verrie_bad_trip">Instagram @collectif_verrie_bad_trip</a>
-  · <a href="https://www.facebook.com/people/Non-au-projet-usine-%C3%A0-veaux-Verrie-49/61591820644792/">page Facebook</a>
-  · <a href="https://www.facebook.com/groups/2021365562077233">groupe Facebook</a>
-  . Écrire au collectif <a href="mailto:verriebadtrip@protonmail.com">verriebadtrip@protonmail.com</a>
-</p>
+<section id="rejoindre" class="rejoindre">
+  <h2>Rejoindre le mouvement</h2>
+
+  <h3>📣 Suivre l'actualité</h3>
+  <p>Pour rester au courant des avancées, des mobilisations et des victoires&nbsp;:</p>
+  <p class="cta-row">
+    <a class="btn btn-outline" href="https://www.instagram.com/collectif_verrie_bad_trip">📸 Instagram</a>
+    <a class="btn btn-outline" href="https://www.facebook.com/people/Non-au-projet-usine-%C3%A0-veaux-Verrie-49/61591820644792/">👍 Page Facebook</a>
+  </p>
+
+  <h3>🤝 S'investir &amp; nous contacter</h3>
+  <p>Envie d'aider concrètement — tracter, proposer une action, partager une compétence
+  (juridique, agricole, communication…)&nbsp;? Rejoignez les membres du collectif ou écrivez-nous&nbsp;:</p>
+  <p class="cta-row">
+    <a class="btn btn-primary" href="https://www.facebook.com/groups/2021365562077233">🤝 Rejoindre le groupe Facebook</a>
+    <a class="btn btn-outline" href="mailto:verriebadtrip@protonmail.com">✉️ Écrire au collectif</a>
+  </p>
+</section>
