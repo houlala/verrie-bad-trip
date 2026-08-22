@@ -108,9 +108,6 @@ layout: default
       <p>Pour toutes ces raisons, nous vous demandons de <strong>ne pas accorder ce projet</strong>, de refuser l'autorisation d'exploiter et d'émettre un avis défavorable.</p>
     </details>
   </div>
-
-  <p>Ajoutez votre nom pour soutenir cette demande. Cela prend moins d'une minute.</p>
-  <p class="signatures">{{ site.signatures }}</p>
   <p>🎯 Prochain objectif&nbsp;: <strong>10&nbsp;000 signatures</strong> pour peser sur la décision du préfet.</p>
   {% include petition-form.html %}
 </section>
