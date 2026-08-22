@@ -108,7 +108,27 @@ layout: default
       <p>Pour toutes ces raisons, nous vous demandons de <strong>ne pas accorder ce projet</strong>, de refuser l'autorisation d'exploiter et d'émettre un avis défavorable.</p>
     </details>
   </div>
-  <p>🎯 Prochain objectif&nbsp;: <strong>10&nbsp;000 signatures</strong>.</p>
+  <p style="text-align: center;">🎯 Prochain objectif&nbsp;: <strong>10&nbsp;000 signatures</strong>.
+      <br />
+      <span class="petition-compteur" data-compteur-url="https://petition.houla.net/counts/verrie.json" hidden>
+        Déjà <strong class="petition-compteur__nombre"></strong> signatures&nbsp;! (dont plus de 3250 du Maine et Loire)
+      </span>
+      <script>
+      (function () {
+        var el = document.currentScript.previousElementSibling;
+        if (!el || !el.classList.contains("petition-compteur")) return;
+        var cible = el.querySelector(".petition-compteur__nombre");
+        fetch(el.getAttribute("data-compteur-url"), { cache: "no-store" })
+          .then(function (r) { return r.ok ? r.json() : Promise.reject(r.status); })
+          .then(function (d) {
+            if (!d || typeof d.signatures !== "number") throw new Error("format inattendu");
+            cible.textContent = d.signatures.toLocaleString("fr-FR");
+            el.hidden = false; // on n'affiche le compteur qu'une fois le nombre connu
+          })
+          .catch(function () { /* repli : le compteur reste masqué plutôt que d'afficher une erreur */ });
+      })();
+      </script>
+  </p>
   {% include petition-form.html %}
 </section>
 
